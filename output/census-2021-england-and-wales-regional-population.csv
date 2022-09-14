@@ -1,0 +1,191 @@
+area_code,area_name,age_category,value
+E12000001,North East,"[0, 5)",134300
+E12000002,North West,"[0, 5)",407700
+E12000003,Yorkshire and The Humber,"[0, 5)",298600
+E12000004,East Midlands,"[0, 5)",253200
+E12000005,West Midlands,"[0, 5)",335400
+E12000006,East of England,"[0, 5)",349100
+E12000007,London,"[0, 5)",529000
+E12000008,South East,"[0, 5)",495300
+E12000009,South West,"[0, 5)",274400
+W92000004,Wales,"[0, 5)",155100
+E12000001,North East,"[5, 10)",150500
+E12000002,North West,"[5, 10)",445000
+E12000003,Yorkshire and The Humber,"[5, 10)",326100
+E12000004,East Midlands,"[5, 10)",283300
+E12000005,West Midlands,"[5, 10)",368300
+E12000006,East of England,"[5, 10)",380600
+E12000007,London,"[5, 10)",531500
+E12000008,South East,"[5, 10)",552200
+E12000009,South West,"[5, 10)",311100
+W92000004,Wales,"[5, 10)",175900
+E12000001,North East,"[10, 15)",154400
+E12000002,North West,"[10, 15)",452400
+E12000003,Yorkshire and The Humber,"[10, 15)",332600
+E12000004,East Midlands,"[10, 15)",290300
+E12000005,West Midlands,"[10, 15)",374400
+E12000006,East of England,"[10, 15)",385100
+E12000007,London,"[10, 15)",535400
+E12000008,South East,"[10, 15)",569000
+E12000009,South West,"[10, 15)",319600
+W92000004,Wales,"[10, 15)",182800
+E12000001,North East,"[15, 20)",150100
+E12000002,North West,"[15, 20)",430900
+E12000003,Yorkshire and The Humber,"[15, 20)",323100
+E12000004,East Midlands,"[15, 20)",287300
+E12000005,West Midlands,"[15, 20)",357500
+E12000006,East of England,"[15, 20)",343000
+E12000007,London,"[15, 20)",489400
+E12000008,South East,"[15, 20)",524000
+E12000009,South West,"[15, 20)",313600
+W92000004,Wales,"[15, 20)",175700
+E12000001,North East,"[20, 25)",162900
+E12000002,North West,"[20, 25)",453700
+E12000003,Yorkshire and The Humber,"[20, 25)",347700
+E12000004,East Midlands,"[20, 25)",306400
+E12000005,West Midlands,"[20, 25)",363400
+E12000006,East of England,"[20, 25)",342300
+E12000007,London,"[20, 25)",589200
+E12000008,South East,"[20, 25)",516500
+E12000009,South West,"[20, 25)",332200
+W92000004,Wales,"[20, 25)",187700
+E12000001,North East,"[25, 30)",160700
+E12000002,North West,"[25, 30)",476800
+E12000003,Yorkshire and The Humber,"[25, 30)",350900
+E12000004,East Midlands,"[25, 30)",301200
+E12000005,West Midlands,"[25, 30)",373000
+E12000006,East of England,"[25, 30)",387900
+E12000007,London,"[25, 30)",786600
+E12000008,South East,"[25, 30)",546000
+E12000009,South West,"[25, 30)",332200
+W92000004,Wales,"[25, 30)",186500
+E12000001,North East,"[30, 35)",168000
+E12000002,North West,"[30, 35)",505900
+E12000003,Yorkshire and The Humber,"[30, 35)",367400
+E12000004,East Midlands,"[30, 35)",319200
+E12000005,West Midlands,"[30, 35)",399900
+E12000006,East of England,"[30, 35)",424400
+E12000007,London,"[30, 35)",808300
+E12000008,South East,"[30, 35)",603600
+E12000009,South West,"[30, 35)",355900
+W92000004,Wales,"[30, 35)",196200
+E12000001,North East,"[35, 40)",163400
+E12000002,North West,"[35, 40)",485600
+E12000003,Yorkshire and The Humber,"[35, 40)",349800
+E12000004,East Midlands,"[35, 40)",308100
+E12000005,West Midlands,"[35, 40)",383100
+E12000006,East of England,"[35, 40)",417800
+E12000007,London,"[35, 40)",735700
+E12000008,South East,"[35, 40)",607700
+E12000009,South West,"[35, 40)",344100
+W92000004,Wales,"[35, 40)",186200
+E12000001,North East,"[40, 45)",152200
+E12000002,North West,"[40, 45)",444800
+E12000003,Yorkshire and The Humber,"[40, 45)",323800
+E12000004,East Midlands,"[40, 45)",292300
+E12000005,West Midlands,"[40, 45)",360400
+E12000006,East of England,"[40, 45)",405800
+E12000007,London,"[40, 45)",667300
+E12000008,South East,"[40, 45)",604400
+E12000009,South West,"[40, 45)",329500
+W92000004,Wales,"[40, 45)",175400
+E12000001,North East,"[45, 50)",159000
+E12000002,North West,"[45, 50)",458300
+E12000003,Yorkshire and The Humber,"[45, 50)",338000
+E12000004,East Midlands,"[45, 50)",308400
+E12000005,West Midlands,"[45, 50)",370200
+E12000006,East of England,"[45, 50)",410800
+E12000007,London,"[45, 50)",594000
+E12000008,South East,"[45, 50)",614700
+E12000009,South West,"[45, 50)",349300
+W92000004,Wales,"[45, 50)",186100
+E12000001,North East,"[50, 55)",183400
+E12000002,North West,"[50, 55)",513500
+E12000003,Yorkshire and The Humber,"[50, 55)",380600
+E12000004,East Midlands,"[50, 55)",346600
+E12000005,West Midlands,"[50, 55)",412800
+E12000006,East of England,"[50, 55)",442800
+E12000007,London,"[50, 55)",573800
+E12000008,South East,"[50, 55)",657100
+E12000009,South West,"[50, 55)",397200
+W92000004,Wales,"[50, 55)",215700
+E12000001,North East,"[55, 60)",192300
+E12000002,North West,"[55, 60)",512500
+E12000003,Yorkshire and The Humber,"[55, 60)",373900
+E12000004,East Midlands,"[55, 60)",340000
+E12000005,West Midlands,"[55, 60)",395500
+E12000006,East of England,"[55, 60)",432500
+E12000007,London,"[55, 60)",511600
+E12000008,South East,"[55, 60)",641100
+E12000009,South West,"[55, 60)",406900
+W92000004,Wales,"[55, 60)",222700
+E12000001,North East,"[60, 65)",175200
+E12000002,North West,"[60, 65)",443700
+E12000003,Yorkshire and The Humber,"[60, 65)",327500
+E12000004,East Midlands,"[60, 65)",292200
+E12000005,West Midlands,"[60, 65)",339600
+E12000006,East of England,"[60, 65)",369500
+E12000007,London,"[60, 65)",404600
+E12000008,South East,"[60, 65)",542200
+E12000009,South West,"[60, 65)",361600
+W92000004,Wales,"[60, 65)",199600
+E12000001,North East,"[65, 70)",151700
+E12000002,North West,"[65, 70)",375900
+E12000003,Yorkshire and The Humber,"[65, 70)",280700
+E12000004,East Midlands,"[65, 70)",253800
+E12000005,West Midlands,"[65, 70)",293700
+E12000006,East of England,"[65, 70)",319200
+E12000007,London,"[65, 70)",306400
+E12000008,South East,"[65, 70)",462300
+E12000009,South West,"[65, 70)",323800
+W92000004,Wales,"[65, 70)",177600
+E12000001,North East,"[70, 75)",148400
+E12000002,North West,"[70, 75)",379500
+E12000003,Yorkshire and The Humber,"[70, 75)",284400
+E12000004,East Midlands,"[70, 75)",260900
+E12000005,West Midlands,"[70, 75)",293900
+E12000006,East of England,"[70, 75)",336000
+E12000007,London,"[70, 75)",269100
+E12000008,South East,"[70, 75)",481500
+E12000009,South West,"[70, 75)",342900
+W92000004,Wales,"[70, 75)",181300
+E12000001,North East,"[75, 80)",101300
+E12000002,North West,"[75, 80)",269800
+E12000003,Yorkshire and The Humber,"[75, 80)",201100
+E12000004,East Midlands,"[75, 80)",190800
+E12000005,West Midlands,"[75, 80)",225500
+E12000006,East of England,"[75, 80)",246600
+E12000007,London,"[75, 80)",189700
+E12000008,South East,"[75, 80)",357700
+E12000009,South West,"[75, 80)",256300
+W92000004,Wales,"[75, 80)",131500
+E12000001,North East,"[80, 85)",73300
+E12000002,North West,"[80, 85)",190500
+E12000003,Yorkshire and The Humber,"[80, 85)",142700
+E12000004,East Midlands,"[80, 85)",127600
+E12000005,West Midlands,"[80, 85)",157400
+E12000006,East of England,"[80, 85)",171200
+E12000007,London,"[80, 85)",141000
+E12000008,South East,"[80, 85)",249700
+E12000009,South West,"[80, 85)",174500
+W92000004,Wales,"[80, 85)",89100
+E12000001,North East,"[85, 90)",43400
+E12000002,North West,"[85, 90)",110900
+E12000003,Yorkshire and The Humber,"[85, 90)",85900
+E12000004,East Midlands,"[85, 90)",76100
+E12000005,West Midlands,"[85, 90)",94200
+E12000006,East of England,"[85, 90)",107500
+E12000007,London,"[85, 90)",86800
+E12000008,South East,"[85, 90)",157800
+E12000009,South West,"[85, 90)",109400
+W92000004,Wales,"[85, 90)",52800
+E12000001,North East,"[90, Inf)",22500
+E12000002,North West,"[90, Inf)",59600
+E12000003,Yorkshire and The Humber,"[90, Inf)",46100
+E12000004,East Midlands,"[90, Inf)",42600
+E12000005,West Midlands,"[90, Inf)",52500
+E12000006,East of England,"[90, Inf)",62500
+E12000007,London,"[90, Inf)",50400
+E12000008,South East,"[90, Inf)",95300
+E12000009,South West,"[90, Inf)",66700
+W92000004,Wales,"[90, Inf)",29700
